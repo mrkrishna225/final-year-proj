@@ -1,73 +1,79 @@
-# Welcome to your Lovable project
+# final-year-proj
 
-## Project info
+A modern frontend project built with Vite, React, TypeScript, shadcn-ui, and Tailwind CSS.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## Overview
 
-## How can I edit this code?
+This project is a final year project built as a responsive web application with a modern React stack. It is designed for a smooth developer experience and a clean, maintainable codebase.
 
-There are several ways of editing your application.
+## Tech Stack
 
-**Use Lovable**
+- **Vite** – fast build tool and development server
+- **React** – component-based UI library
+- **TypeScript** – type-safe JavaScript
+- **shadcn-ui** – reusable UI components
+- **Tailwind CSS** – utility-first styling
+- **IPFS** – For block chain based storage
+- **Ganache** – For block chain based result hash storing, simulator of ethereium
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## Getting Started
 
-Changes made via Lovable will be committed automatically to this repo.
+### Prerequisites
 
-**Use your preferred IDE**
+Make sure you have the following installed:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- Node.js
+- npm
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+You can install Node.js using [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) if needed.
 
-Follow these steps:
+### Installation
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
+cd final-year-proj
+npm install
+```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Run the project
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```sh
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+This starts the local development server. Open the URL shown in your terminal.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## Available Scripts
 
-**Use GitHub Codespaces**
+- `npm run dev` – start the development server
+- `npm run build` – build the project for production
+- `npm run preview` – preview the production build locally
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## Editing the Project
 
-## What technologies are used for this project?
+You can edit this project in several ways:
 
-This project is built with:
+### 1. Use Lovable
+Open your Lovable project and prompt changes directly. Updates will be committed automatically to the repository.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+### 2. Use your preferred IDE
+Clone the repository locally, make your changes, and push them back to GitHub.
 
-## How can I deploy this project?
+### 3. Use GitHub
+Edit files directly in GitHub or use GitHub Codespaces.
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+## Deployment
 
-## Can I connect a custom domain to my Lovable project?
+Build the project for production and deploy the generated output to your hosting platform of choice.
 
-Yes, you can!
+If you're using Lovable, you can publish the project from the Lovable interface.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+## Custom Domain
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+If your project is connected to Lovable, you can configure a custom domain from:
+
+**Project > Settings > Domains > Connect Domain**
+
+## License
+
+Add your license information here if applicable.
