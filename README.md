@@ -1,4 +1,4 @@
-# final-year-proj
+# Immutable Acedemics
 
 A modern frontend project built with Vite, React, TypeScript, shadcn-ui, and Tailwind CSS.
 
