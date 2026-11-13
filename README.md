@@ -1,4 +1,10 @@
-# Immutable Acedemics
+# Immutable Academics — Decentralized LMS & Credential Verification Platform
+
+> Decentralized academic credential issuing and IPFS/Ethereum blockchain verification system built with React, Vite, and Solidity.
+
+### 🛠️ Tech Stack & Topics
+`blockchain` `ethereum` `ipfs` `smart-contracts` `solidity` `react` `typescript` `web3`
+
 
 A modern frontend project built with Vite, React, TypeScript, shadcn-ui, and Tailwind CSS.
 
