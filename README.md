@@ -2,7 +2,13 @@
 
 > Decentralized academic credential issuing and IPFS/Ethereum blockchain verification system built with React, Vite, and Solidity.
 
-### 🛠️ Tech Stack & Topics
+### Tech Stack & Topics
+`blockchain` | `ethereum` | `ipfs` | `smart-contracts` | `solidity` | `react` | `typescript` | `web3`
+
+
+> Decentralized academic credential issuing and IPFS/Ethereum blockchain verification system built with React, Vite, and Solidity.
+
+###  Tech Stack & Topics
 `blockchain` `ethereum` `ipfs` `smart-contracts` `solidity` `react` `typescript` `web3`
 
 
